@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Kofi Annan, and I am a student from Ghana. I am passionate about technology, software engineering, and learning new digital skills that can help me grow and solve real problems in society.
+
+I enjoy improving myself through education and practical projects. This repository is part of my GitHub learning journey, and it will help me practice how to create files, make commits, and manage a repository.
